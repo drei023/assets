@@ -1,8 +1,11 @@
 # 🫦 Aphrodesia / Hex Appeal - Backup Folder
 
-Staged here temporarily because the Knight-Media-Group GitHub org is
-currently refusing API access from this session's fine-grained PAT
-(token lifetime exceeds the org's 366-day policy). Andrei needs to
-either shorten the token's lifetime or adjust the org policy at
-https://github.com/settings/personal-access-tokens/12252639 - once
-fixed, these files belong in the proper Temple Workers repo instead.
+Updated 2026-09-30.  The Aphrodesia files no longer need staging here.  The proper homes are:
+
+- Intake Worker: `drei023/mcp-servers/aphrodesia-intake/` (worker.js + NOTES.md)
+- Website HTML: `drei023/Aphrodesia.net`
+- Design system: `drei023/aphrodesia-design-system`
+
+The GitHub owner is always drei023 (never Knight-Media-Group).
+
+The `workers/mcp-marketing.js` file in this folder is an older staged copy.  The current one lives in `drei023/mcp-servers/mcp-marketing/`.
